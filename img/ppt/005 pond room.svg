@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="005 pond room.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg61"
+   version="1.1"
+   viewBox="0 0 1896.5333 948.26666"
+   height="948.26666mm"
+   width="1896.5333mm">
+  <defs
+     id="defs55" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="45"
+     inkscape:window-x="235"
+     inkscape:window-height="902"
+     inkscape:window-width="1741"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="1744.6996"
+     inkscape:cx="4930.1956"
+     inkscape:zoom="0.24748737"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata58">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(1262.7428,328.99048)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <image
+       sodipodi:absref="E:\Precipy\Study stuff\Stony Brook\Club &amp;\Biology lab work\virtual tour\11-10 new photos\005 pond room.jpg"
+       xlink:href="11-10%20new%20photos/005%20pond%20room.jpg"
+       y="-328.99048"
+       x="-1262.7428"
+       width="1896.5333"
+       height="948.26666"
+       preserveAspectRatio="none"
+       id="image102" />
+    <circle
+       r="7.1815472"
+       cy="174.85179"
+       cx="367.46854"
+       id="Previous"
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583" />
+    <circle
+       r="9.0871639"
+       cy="181.49431"
+       cx="-282.93271"
+       id="Next"
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583" />
+  </g>
+</svg>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="018 hallway.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg90"
+   version="1.1"
+   viewBox="0 0 1896.5333 948.26666"
+   height="948.26666mm"
+   width="1896.5333mm">
+  <defs
+     id="defs84" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="1"
+     inkscape:window-x="125"
+     inkscape:window-height="1020"
+     inkscape:window-width="1741"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="2143.0957"
+     inkscape:cx="1299.8533"
+     inkscape:zoom="0.35"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata87">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(1082.8262,378.88333)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <image
+       sodipodi:absref="E:\Precipy\Study stuff\Stony Brook\Club &amp;\Biology lab work\virtual tour\11-10 new photos\018 hallway.jpg"
+       xlink:href="11-10%20new%20photos/018%20hallway.jpg"
+       y="-378.88333"
+       x="-1082.8262"
+       width="1896.5333"
+       height="948.26666"
+       preserveAspectRatio="none"
+       id="image102" />
+    <circle
+       r="10.205358"
+       cy="94.720825"
+       cx="612.39703"
+       id="Next_bay_8"
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583" />
+    <circle
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       id="Previous"
+       cx="-764.35791"
+       cy="116.69145"
+       r="10.205358" />
+  </g>
+</svg>

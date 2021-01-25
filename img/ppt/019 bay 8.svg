@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="019 bay 8.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   id="svg131"
+   version="1.1"
+   viewBox="0 0 1896.5333 948.26666"
+   height="948.26666mm"
+   width="1896.5333mm">
+  <defs
+     id="defs125" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="49"
+     inkscape:window-height="1020"
+     inkscape:window-width="1741"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="2170.5678"
+     inkscape:cx="6477.3708"
+     inkscape:zoom="0.7"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata128">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(1261.231,383.41904)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <image
+       sodipodi:absref="E:\Precipy\Study stuff\Stony Brook\Club &amp;\Biology lab work\virtual tour\11-10 new photos\019 bay 8.jpg"
+       xlink:href="11-10%20new%20photos/019%20bay%208.jpg"
+       y="-383.41904"
+       x="-1261.231"
+       width="1896.5333"
+       height="948.26666"
+       preserveAspectRatio="none"
+       id="image143" />
+    <ellipse
+       ry="6.9490075"
+       rx="6.4144688"
+       cy="93.924316"
+       cx="-879.57013"
+       id="Previous_hallway"
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583" />
+    <ellipse
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.264583"
+       id="Next_second_row_of_bay_8"
+       cx="586.50745"
+       cy="105.54338"
+       rx="6.4144688"
+       ry="6.9490075" />
+  </g>
+</svg>
